@@ -1,0 +1,8 @@
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.csproj.SuggestedBindingRedirects.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.frmmenu.resources
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.frmtabuada.resources
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.frmenquanto.resources
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.Properties.Resources.resources
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.csproj.GenerateResource.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Livia e Matheus\Atividadenivia\Atividadenivia\obj\Debug\Atividadenivia.csproj.CoreCompileInputs.cache
